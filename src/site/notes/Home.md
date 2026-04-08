@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgEnableSearch":"true"}
 ---
 
-123456
+xx的笔记小屋！
