@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgEnableSearch":"true"}
 ---
 
-![本文插图|80%](https://pic.xx0419.dpdns.org/file/AgACAgUAAyEGAASbRrUYAAMDaBB6r1BOxtM20_STxoZRPeXoNvoAAr7FMRuWJ4lU7I2vFBl_Ky8BAAMCAAN5AAM2BA.png)
+![本文插图|700](https://pic.xx0419.dpdns.org/file/AgACAgUAAyEGAASbRrUYAAMDaBB6r1BOxtM20_STxoZRPeXoNvoAAr7FMRuWJ4lU7I2vFBl_Ky8BAAMCAAN5AAM2BA.png)
 
 > 字里行间藏山海，一笑相逢语万千。
 ### 序
